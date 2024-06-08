@@ -18,7 +18,7 @@ body {
   /* background-color: #60b347; */
 }
 
-/* LAYOUT */
+/* layout */
 header {
   position: relative;
   height: 35vh;
@@ -45,7 +45,7 @@ main {
   font-size: 2rem;
 }
 
-/* ELEMENTS STYLE */
+/* elements style */
 h1 {
   font-size: 4rem;
   text-align: center;
